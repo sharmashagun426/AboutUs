@@ -24,7 +24,7 @@ export default function About() {
                         tasks.</p>
                     <div className="row mb-3">
                         <div className="col-sm-6 py-2"><h6>Name: <span className="text-secondary">Shagun Vashisth</span></h6></div>
-                        <div className="col-sm-6 py-2"><h6>Birthday: <span className="text-secondary">09 December 1999</span></h6></div>
+                        <div className="col-sm-6 py-2"><h6>Birthday: <span className="text-secondary">09 December</span></h6></div>
                         <div className="col-sm-6 py-2"><h6>Degree: <span className="text-secondary">Bachlore</span></h6></div>
                         <div className="col-sm-6 py-2"><h6>Experience: <span className="text-secondary">3+ Years</span></h6></div>
                         <div className="col-sm-6 py-2"><h6>Phone: <span className="text-secondary">+91 9996632053</span></h6></div>
