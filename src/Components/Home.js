@@ -61,7 +61,7 @@ export default function Home() {
                 <span ref={el}></span>
               </h1>
               <div className="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
-                <a href="../Assets/file/ShagunResume3.pdf" className="btn btn-outline-light mr-3" download>Download CV</a>
+                <a href="../Assets/file/shagunResume2.pdf" className="btn btn-outline-light mr-3" download>Download CV</a>
                 <a href="mailto:sharmashagun426@gmail.com" className="btn btn-outline-light mr-3" target="_blank">Send Email</a>
                 <a href="https://in.linkedin.com/in/shagun-vashisth-7b93b317b" className="btn btn-outline-light" target="_blank">LinkedIn Profile</a>
                 {/* <button type="button" className="btn-play" data-toggle="modal"
