@@ -32,8 +32,8 @@ export default function About() {
                         <div className="col-sm-6 py-2"><h6>Address: <span className="text-secondary">Noida, India</span></h6></div>
                         <div className="col-sm-6 py-2"><h6>Freelance: <span className="text-secondary">Available</span></h6></div>
                     </div>
-                    <Link to="mailto:sharmashagun426@gmail.com" className="btn btn-outline-primary mr-4">Hire Me</Link>
-                    <Link to="" className="btn btn-outline-primary">Learn More</Link>
+                    <a href="mailto:sharmashagun426@gmail.com" className="btn btn-outline-primary mr-4">Hire Me</a>
+                    {/* <Link to="" className="btn btn-outline-primary">Learn More</Link> */}
                 </div>
             </div>
         </div>
