@@ -8,7 +8,7 @@ import Skills from './Skills';
 import Contact from './Contact';
 import { FaChevronDown } from "react-icons/fa";
 import { FaChevronUp } from "react-icons/fa";
-import resume from "../Assets/File/ShagunResume1.pdf"
+import resume from "../Assets/File/shagunResume2.pdf"
 export default function Home() {
 
   const [offset, setOffset] = useState(0);
